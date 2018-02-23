@@ -11,6 +11,7 @@ namespace Tuyen_Test_1
         static void Main(string[] args)
         {
             Console.WriteLine("This is a test!");
+            Console.WriteLine("I've just added a new line No.1");
             Console.ReadKey();
         }
     }
