@@ -12,6 +12,7 @@ namespace Tuyen_Test_1
         {
             Console.WriteLine("This is a test!");
             Console.WriteLine("I've just added a new line No.1");
+            Console.WriteLine("I've just created a new branch");
             Console.ReadKey();
         }
     }
